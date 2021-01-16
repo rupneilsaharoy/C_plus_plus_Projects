@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586767967 source:c:\users\rupneil saha roy\onedrive\desktop\c++\staticclassmembers\src\player.cpp
+	"Player.h"
+
+1586767755 c:\users\rupneil saha roy\onedrive\desktop\c++\staticclassmembers\include\player.h
+	<string>
+
+1586768586 source:c:\users\rupneil saha roy\onedrive\desktop\c++\staticclassmembers\main.cpp
+	<iostream>
+	"Player.h"
+

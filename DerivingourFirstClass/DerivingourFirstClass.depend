@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587016365 source:c:\users\rupneil saha roy\onedrive\desktop\c++\derivingourfirstclass\main.cpp
+	<iostream>
+	"Account.h"
+	"Savings_Account.h"
+
+1587018008 c:\users\rupneil saha roy\onedrive\desktop\c++\derivingourfirstclass\include\account.h
+	<string>
+
+1587022796 c:\users\rupneil saha roy\onedrive\desktop\c++\derivingourfirstclass\include\savings_account.h
+	"Account.h"
+
+1587016852 source:c:\users\rupneil saha roy\onedrive\desktop\c++\derivingourfirstclass\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1587022854 source:c:\users\rupneil saha roy\onedrive\desktop\c++\derivingourfirstclass\src\savings_account.cpp
+	<iostream>
+	"Savings_Account.h"
+

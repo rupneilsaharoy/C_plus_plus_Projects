@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585842299 source:c:\users\rupneil saha roy\onedrive\desktop\c++\dynamic memory allocation\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
